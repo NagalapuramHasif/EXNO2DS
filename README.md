@@ -37,7 +37,7 @@ df.info()
 ```
 ![image](https://github.com/user-attachments/assets/e0718605-deb1-4469-aa01-ad69f22d8520)
 ```
-df.shape
+df.shape 
 ```
 ![image](https://github.com/user-attachments/assets/e27b9466-a81d-49a2-8c62-d7d395aebebc)
 ```
